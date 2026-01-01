@@ -1,8 +1,5 @@
 # ----------------------------------------------------------
-# Edmonds-Karp Algorithm for Maximum Flow (Colorized Edition)
-# ----------------------------------------------------------
-# Same logic, cleaner layout, and colorful terminal output.
-# Uses 'colorama' for colored text. Run: pip install colorama
+# Edmonds-Karp Algorithm for Maximum Flow
 # ----------------------------------------------------------
 
 from collections import deque
